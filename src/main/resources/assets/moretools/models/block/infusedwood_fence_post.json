@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "moretools:blocks/infplanks",
+    "particle": "moretools:blocks/infplanks"
+  }
+}

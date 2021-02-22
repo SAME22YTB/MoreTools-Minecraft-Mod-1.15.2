@@ -1,0 +1,24 @@
+{
+  "group": "moretools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "moretools:infused_coal_ingot"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moretools:infused_shovel",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "moretools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "moretools:infused_coal_ingot"
+    },
+    "1": {
+      "item": "moretools:infused_coal_ingot"
+    },
+    "2": {
+      "item": "moretools:infused_coal_ingot"
+    },
+    "3": {
+      "item": "moretools:infused_coal_ingot"
+    },
+    "4": {
+      "item": "moretools:infused_coal_ingot"
+    },
+    "5": {
+      "item": "moretools:infused_coal_ingot"
+    },
+    "6": {
+      "item": "moretools:infused_coal_ingot"
+    },
+    "7": {
+      "item": "moretools:infused_coal_ingot"
+    },
+    "8": {
+      "item": "moretools:infused_coal_ingot"
+    }
+  },
+  "result": {
+    "item": "moretools:infused_coralcoal",
+    "count": 1
+  }
+}

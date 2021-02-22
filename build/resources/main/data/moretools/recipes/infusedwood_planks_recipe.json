@@ -1,0 +1,13 @@
+{
+  "group": "moretools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moretools:infusedwood_log"
+    }
+  ],
+  "result": {
+    "item": "moretools:infusedwood_planks",
+    "count": 4
+  }
+}

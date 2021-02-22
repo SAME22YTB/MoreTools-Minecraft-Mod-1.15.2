@@ -1,0 +1,26 @@
+{
+  "group": "moretools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "moretools:infusedwood_log"
+    },
+    "1": {
+      "item": "moretools:infusedwood_log"
+    },
+    "2": {
+      "item": "moretools:infusedwood_log"
+    },
+    "3": {
+      "item": "moretools:infusedwood_log"
+    }
+  },
+  "result": {
+    "item": "moretools:infusedwood_wood",
+    "count": 3
+  }
+}

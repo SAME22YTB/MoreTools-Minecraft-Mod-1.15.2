@@ -1,0 +1,22 @@
+{
+  "group": "moretools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "moretools:infusedwood_planks"
+    },
+    "1": {
+      "item": "moretools:infusedwood_planks"
+    },
+    "2": {
+      "item": "moretools:infusedwood_planks"
+    }
+  },
+  "result": {
+    "item": "moretools:infusedwood_slab",
+    "count": 6
+  }
+}

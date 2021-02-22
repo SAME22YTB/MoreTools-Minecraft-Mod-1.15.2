@@ -1,0 +1,332 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "InfusedCoalIngot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_coal_ingot"
+    },
+    {
+      "name": "InfusedCoalOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_coal_ore"
+    },
+    {
+      "name": "InfusedCoalBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_coal_block"
+    },
+    {
+      "name": "InfusedCoalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_coal_ore_block_recipe"
+    },
+    {
+      "name": "Ici",
+      "type": "fuel",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ici"
+    },
+    {
+      "name": "InfusedPickaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_pickaxe"
+    },
+    {
+      "name": "InfusedAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_axe"
+    },
+    {
+      "name": "InfusedSword",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_sword"
+    },
+    {
+      "name": "InfusedShovel",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_shovel"
+    },
+    {
+      "name": "InfusedHoe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_hoe"
+    },
+    {
+      "name": "InfusedPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_pickaxe_recipe"
+    },
+    {
+      "name": "InfusedAxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_axe_recipe"
+    },
+    {
+      "name": "InfusedSwordRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_sword_recipe"
+    },
+    {
+      "name": "InfusedShovelRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_shovel_recipe"
+    },
+    {
+      "name": "InfusedHoeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_hoe_recipe"
+    },
+    {
+      "name": "InfusedwoodWood",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_wood"
+    },
+    {
+      "name": "InfusedwoodLog",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_log"
+    },
+    {
+      "name": "InfusedwoodPlanks",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_planks"
+    },
+    {
+      "name": "InfusedwoodLeaves",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_leaves"
+    },
+    {
+      "name": "InfusedwoodStairs",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_stairs"
+    },
+    {
+      "name": "InfusedwoodSlab",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_slab"
+    },
+    {
+      "name": "InfusedwoodFence",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_fence"
+    },
+    {
+      "name": "InfusedwoodFenceGate",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_fence_gate"
+    },
+    {
+      "name": "InfusedwoodItemsTag",
+      "type": "tag",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_items_tag"
+    },
+    {
+      "name": "InfusedwoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_wood_recipe"
+    },
+    {
+      "name": "InfusedwoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_planks_recipe"
+    },
+    {
+      "name": "InfusedwoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_stairs_recipe"
+    },
+    {
+      "name": "InfusedwoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_slab_recipe"
+    },
+    {
+      "name": "InfusedwoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_fence_recipe"
+    },
+    {
+      "name": "InfusedwoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_fence_gate_recipe"
+    },
+    {
+      "name": "InfusedwoodStickRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infusedwood_stick_recipe"
+    },
+    {
+      "name": "Moretoolsplus",
+      "type": "gui",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moretoolsplus"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.moretools.infused_coal_ingot": "Infused Coal",
+      "block.moretools.infusedwood_leaves": "Infusedwood Leaves",
+      "block.moretools.infusedwood_slab": "Infusedwood Slab",
+      "item.moretools.infused_sword": "Infused Sword",
+      "block.moretools.infusedwood_stairs": "Infusedwood Stairs",
+      "item.moretools.infused_pickaxe": "Infused Pickaxe",
+      "block.moretools.infusedwood_fence": "Infusedwood Fence",
+      "block.moretools.infused_coal_ore": "InfusedCoal Ore",
+      "item.moretools.infused_hoe": "Infused Hoe",
+      "item.moretools.infused_shovel": "Infused Shovel",
+      "block.moretools.infusedwood_fence_gate": "Infusedwood Fence Gate",
+      "block.moretools.infused_coal_block": "Block of InfusedCoal",
+      "block.moretools.infusedwood_planks": "Infusedwood Planks",
+      "item.moretools.infused_axe": "Infused Axe",
+      "block.moretools.infusedwood_wood": "Infusedwood Wood",
+      "block.moretools.infusedwood_log": "Infusedwood Log"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "moretools",
+    "modName": "MoreTools+",
+    "version": "1.0.0",
+    "author": "vasil, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.moretools",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

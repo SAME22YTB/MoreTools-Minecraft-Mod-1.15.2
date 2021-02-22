@@ -1,0 +1,20 @@
+{
+  "group": "moretools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "moretools:infusedwood_planks"
+    },
+    "1": {
+      "item": "moretools:infusedwood_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

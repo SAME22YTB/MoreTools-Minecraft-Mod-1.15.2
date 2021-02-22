@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "moretools:block/infusedwood_slab"
+    },
+    "type=top": {
+      "model": "moretools:block/infusedwood_slab_top"
+    },
+    "type=double": {
+      "model": "moretools:block/infusedwood_slab_full"
+    }
+  }
+}

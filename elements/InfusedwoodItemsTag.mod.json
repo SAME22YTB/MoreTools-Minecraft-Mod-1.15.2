@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:InfusedwoodWood"
+      },
+      {
+        "value": "CUSTOM:InfusedwoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "infusedwood_log",
+    "namespace": "forge"
+  }
+}

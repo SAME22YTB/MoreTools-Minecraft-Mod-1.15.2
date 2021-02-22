@@ -1,0 +1,173 @@
+[19Feb2021 16:07:03.682] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20200515.085601, --fml.mcVersion, 1.15.2, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 31.2.0, --version, MOD_DEV, --assetIndex, 1.15, --assetsDir, C:\Users\vasil\.mcreator\gradle\caches\forge_gradle\assets, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[19Feb2021 16:07:03.695] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.1.2+70+master.2845bb9 starting: java version 1.8.0_265 by BellSoft
+[19Feb2021 16:07:04.362] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[19Feb2021 16:07:08.565] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\vasil\.mcreator\gradle\caches\forge_gradle\assets, --assetIndex, 1.15, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[19Feb2021 16:07:13.965] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[19Feb2021 16:07:36.294] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
+[19Feb2021 16:07:38.596] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 31.2.0, for MC 1.15.2 with MCP 20200515.085601
+[19Feb2021 16:07:38.599] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v31.2.0 Initialized
+[19Feb2021 16:07:39.793] [Render thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Dispatching synchronous work after CONSTRUCT: 1 jobs
+[19Feb2021 16:07:40.608] [Render thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Synchronous work queue completed in 00:00:00.801
+[19Feb2021 16:07:48.196] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[19Feb2021 16:07:48.464] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[19Feb2021 16:07:50.044] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19Feb2021 16:07:51.058] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 31.2.0 Target: null
+[19Feb2021 16:08:07.774] [Server-Worker-2/WARN] [net.minecraft.client.renderer.texture.AtlasTexture/]: Texture moretools:items/minecraft_coal with size 511x509 limits mip level from 2 to 0
+[19Feb2021 16:08:11.751] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[19Feb2021 16:08:11.753] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[19Feb2021 16:08:12.078] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x1024x2 minecraft:textures/atlas/blocks.png-atlas
+[19Feb2021 16:08:12.246] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x2 minecraft:textures/atlas/signs.png-atlas
+[19Feb2021 16:08:12.248] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x2 minecraft:textures/atlas/banner_patterns.png-atlas
+[19Feb2021 16:08:12.254] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x2 minecraft:textures/atlas/shield_patterns.png-atlas
+[19Feb2021 16:08:12.262] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x2 minecraft:textures/atlas/chest.png-atlas
+[19Feb2021 16:08:12.265] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x2 minecraft:textures/atlas/beds.png-atlas
+[19Feb2021 16:08:12.268] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x2 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19Feb2021 16:08:13.328] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[19Feb2021 16:08:13.337] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19Feb2021 16:08:13.341] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19Feb2021 16:08:14.526] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[19Feb2021 16:09:56.462] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19Feb2021 16:09:56.464] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19Feb2021 16:09:56.466] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19Feb2021 16:09:56.468] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19Feb2021 16:09:56.471] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19Feb2021 16:09:56.768] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.15.2
+[19Feb2021 16:09:56.769] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Generating keypair
+[19Feb2021 16:09:57.125] [Server thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this SERVER instance
+[19Feb2021 16:09:57.632] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar, main
+[19Feb2021 16:10:01.260] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe moretools:infused_coal_ore_block_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'moretools:infused_coralcoal'
+	at net.minecraft.item.crafting.ShapedRecipe.lambda$deserializeItem$0(ShapedRecipe.java:286) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_265]
+	at net.minecraft.item.crafting.ShapedRecipe.deserializeItem(ShapedRecipe.java:285) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.read(ShapedRecipe.java:305) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.read(ShapedRecipe.java:296) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.deserializeRecipe(RecipeManager.java:137) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.apply(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.apply(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.lambda$reload$1(ReloadListener.java:14) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_265]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_265]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_265]
+	at net.minecraft.resources.AsyncReloader.lambda$null$3(AsyncReloader.java:66) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(TickDelayedTask.java:20) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.run(ThreadTaskExecutor.java:140) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.run(RecursiveEventLoop.java:22) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:759) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.driveOne(ThreadTaskExecutor.java:110) [?:?]
+	at net.minecraft.server.MinecraftServer.driveOneInternal(MinecraftServer.java:742) [?:?]
+	at net.minecraft.server.MinecraftServer.driveOne(MinecraftServer.java:736) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.driveUntil(ThreadTaskExecutor.java:123) [?:?]
+	at net.minecraft.server.MinecraftServer.loadDataPacks(MinecraftServer.java:1583) [?:?]
+	at net.minecraft.server.MinecraftServer.loadDataPacks(MinecraftServer.java:457) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.loadAllWorlds(IntegratedServer.java:77) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.init(IntegratedServer.java:99) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:638) [?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_265]
+[19Feb2021 16:10:01.282] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[19Feb2021 16:10:04.491] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 825 advancements
+[19Feb2021 16:10:05.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Feb2021 16:10:07.212] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[19Feb2021 16:10:07.212] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[19Feb2021 16:10:07.213] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[19Feb2021 16:10:07.213] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[19Feb2021 16:10:07.758] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[19Feb2021 16:10:08.592] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[19Feb2021 16:10:08.595] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[19Feb2021 16:10:09.429] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[19Feb2021 16:10:09.593] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[19Feb2021 16:10:10.141] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[19Feb2021 16:10:10.937] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[19Feb2021 16:10:11.542] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[19Feb2021 16:10:11.565] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 5975 ms
+[19Feb2021 16:10:12.336] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Feb2021 16:10:12.341] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Feb2021 16:10:12.350] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 4, from 10
+[19Feb2021 16:10:15.399] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[19Feb2021 16:10:15.614] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ee4912d
+[19Feb2021 16:10:15.769] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:08dd9f7f] logged in with entity id 240 at (-154.3447056888399, 4.0, -171.78418169094306)
+[19Feb2021 16:10:15.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[19Feb2021 16:10:16.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19Feb2021 16:10:16.761] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[19Feb2021 16:10:16.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
+[19Feb2021 16:10:16.986] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 51 advancements
+[19Feb2021 16:10:47.611] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Unknown command
+[19Feb2021 16:10:47.612] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] /function<--[HERE]
+[19Feb2021 16:10:53.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Reloading!]
+[19Feb2021 16:10:53.987] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Reloading!
+[19Feb2021 16:10:53.998] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar, main
+[19Feb2021 16:10:57.475] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe moretools:infused_coal_ore_block_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'moretools:infused_coralcoal'
+	at net.minecraft.item.crafting.ShapedRecipe.lambda$deserializeItem$0(ShapedRecipe.java:286) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_265]
+	at net.minecraft.item.crafting.ShapedRecipe.deserializeItem(ShapedRecipe.java:285) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.read(ShapedRecipe.java:305) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.read(ShapedRecipe.java:296) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.item.crafting.RecipeManager.deserializeRecipe(RecipeManager.java:137) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.item.crafting.RecipeManager.apply(RecipeManager.java:60) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.item.crafting.RecipeManager.apply(RecipeManager.java:37) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.client.resources.ReloadListener.lambda$reload$1(ReloadListener.java:14) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_265]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_265]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_265]
+	at net.minecraft.resources.AsyncReloader.lambda$null$3(AsyncReloader.java:66) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(TickDelayedTask.java:20) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.run(ThreadTaskExecutor.java:140) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.run(RecursiveEventLoop.java:22) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:759) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:141) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.driveOne(ThreadTaskExecutor.java:110) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.server.MinecraftServer.driveOneInternal(MinecraftServer.java:742) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.server.MinecraftServer.driveOne(MinecraftServer.java:736) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.driveUntil(ThreadTaskExecutor.java:123) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.server.MinecraftServer.loadDataPacks(MinecraftServer.java:1583) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.server.MinecraftServer.reload(MinecraftServer.java:1559) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at net.minecraft.command.impl.ReloadCommand.lambda$register$1(ReloadCommand.java:14) ~[forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:262) ~[brigadier-1.0.17.jar:?]
+	at net.minecraft.command.Commands.handleCommand(Commands.java:210) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.handleSlashCommand(ServerPlayNetHandler.java:1033) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.processChatMessage(ServerPlayNetHandler.java:1013) ~[?:?]
+	at net.minecraft.network.play.client.CChatMessagePacket.processPacket(CChatMessagePacket.java:40) ~[?:?]
+	at net.minecraft.network.play.client.CChatMessagePacket.processPacket(CChatMessagePacket.java:8) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:19) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(TickDelayedTask.java:20) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.run(ThreadTaskExecutor.java:140) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.run(RecursiveEventLoop.java:22) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:759) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.driveOne(ThreadTaskExecutor.java:110) [?:?]
+	at net.minecraft.server.MinecraftServer.driveOneInternal(MinecraftServer.java:742) [?:?]
+	at net.minecraft.server.MinecraftServer.driveOne(MinecraftServer.java:736) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.driveUntil(ThreadTaskExecutor.java:123) [?:?]
+	at net.minecraft.server.MinecraftServer.runScheduledTasks(MinecraftServer.java:722) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:666) [?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_265]
+[19Feb2021 16:10:57.525] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[19Feb2021 16:10:59.218] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 825 advancements
+[19Feb2021 16:10:59.227] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ee4912d
+[19Feb2021 16:10:59.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5449ms or 108 ticks behind
+[19Feb2021 16:10:59.471] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 51 advancements
+[19Feb2021 16:11:04.187] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Unknown command
+[19Feb2021 16:11:04.188] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] /datapack<--[HERE]
+[19Feb2021 16:11:07.341] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] There are 3 data packs enabled: [vanilla], [mod:forge], [mod:moretools]
+[19Feb2021 16:11:07.342] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] There are no more data packs available
+[19Feb2021 16:11:24.484] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Unknown command
+[19Feb2021 16:11:24.485] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] ...ack enable<--[HERE]
+[19Feb2021 16:11:32.632] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Unknown data pack 'moretools'
+[19Feb2021 16:11:54.873] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 54 advancements
+[19Feb2021 16:12:23.224] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 60 advancements
+[19Feb2021 16:12:39.628] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 61 advancements
+[19Feb2021 16:13:04.338] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 64 advancements
+[19Feb2021 16:13:49.154] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[19Feb2021 16:13:49.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
+[19Feb2021 16:13:49.718] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dev lost connection: Disconnected
+[19Feb2021 16:13:49.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[19Feb2021 16:13:49.733] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[19Feb2021 16:13:49.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Feb2021 16:13:49.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Feb2021 16:13:49.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Feb2021 16:13:49.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'New World'/minecraft:overworld
+[19Feb2021 16:13:49.983] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[19Feb2021 16:13:50.005] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[19Feb2021 16:14:51.116] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
